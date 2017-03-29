@@ -9,5 +9,6 @@ checkdropbox.sh - check dropbox is running
 ebook-import-calibre.sh  - import a directory of books into calibre, converting them to epub first and fixing names
 migrate-permissions.sh  - for when you accidentally chown or chmod /, this lets you copy permissions from another mounted fs
 migrate-permissions-between-servers.sh  Same as above, but from one server to another
+Timelapse.sh - takes a bunch of CR2 files from Canon and makes it into a timelapse
 reindex-video.sh - script that reindexes a movie
 
